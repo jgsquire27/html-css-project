@@ -11,6 +11,7 @@
   background-color: orange;
   height: 115px;
   margin-bottom: 5px;
+  font-weight: normal;
   
   
 }
@@ -357,10 +358,6 @@ button{
 
 }
 
-.secondaryContentLeft{
-  /* flex-direction: column; */
-
-}
 
 .secondaryContentForm{
   margin: 0 0 20px 0;
